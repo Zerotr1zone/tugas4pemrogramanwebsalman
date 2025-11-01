@@ -204,7 +204,7 @@ button:hover {
 
 /* Styling untuk tombol kembali */
 .btn-back {
-    background-color: white;
+    background-color: #7f8c8d;
     padding: 12px 30px;
 }
 
@@ -239,4 +239,5 @@ ul, ol {
         margin: 20px;
         padding: 20px;
     }
+
 }
